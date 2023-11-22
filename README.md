@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @yBruxoooo
-- 👀 I’m interested in ...Em fazer um Boot
-- 🌱 I’m currently learning ...A criar Boots
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Em fazer um Boot
+- 🌱 I’m currently learning A criar Boots
+- 💞️ I’m looking to collaborate on
+- 📫 How to reach me lcsbunik2015@gmail.com
 
 <!---
 yBruxoooo/yBruxoooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
